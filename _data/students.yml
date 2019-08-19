@@ -1,0 +1,79 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Ao Dong
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: literature data visualization
+
+- name: Jiaxin Zhou
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: structure from motion
+
+- name: Zhiguang Yang
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: Deep learning
+
+- name: Zhihao Liu
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: modeling and structure from motion
+
+- name: Kai Wu
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: modeling and deep learning
+
+- name: Zhenbang He
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: offline rendering
+
+- name: Xi Chen
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: deep learning
+
+- name: Xiaoliang Cui
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: computer graphics
+
+- name: Zhendong Xiao
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: structure from motion
+
+- name: Jin Zeng
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: point cloud precessing

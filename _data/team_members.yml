@@ -1,0 +1,33 @@
+- name: Zhanglin Cheng
+  photo: chengzhanglin.jpg
+  info: Associate Professor
+  email: zl.cheng@siat.ac.cn
+  number_educ: 1
+  education1: PhD <a href="http://www.ia.cas.cn">Institute of Automation，Chinese Academy of Sciences</a>
+  education2: 
+
+- name: Wei Zeng
+  photo: zengwei.jpg
+  info: Associate Professor
+  email: wei.zeng@siat.ac.cn
+  number_educ: 2
+  education1: PhD <a href="">Nanyang Technological University</a>
+  education2: Bachelor <a href="">Nanyang Technological University</a>
+
+- name: Oliver Deussen
+  photo: OliverDeussen.jpg
+  info: Distinguished Professor, Research Collaborator
+  email: oliver.deussen@uni.kn
+  number_educ: 1
+  education1: University of Konstanz (Germany)
+- name: Guangfan Pan
+  photo: panguangfan.jpg
+  info: Graphics Engineer
+  email: notAvailable@siat.ac.com
+  number_educ: 1
+  education1: Bachelor Xiamen University
+
+
+
+
+

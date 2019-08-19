@@ -31,7 +31,7 @@ Applications:
 Currently, our group is working on projects related to plant modeling, 3D reconstruction from images and data visualization. As for our previous projects, see [Publications]({{ site.url }}{{ site.baseurl }}/publications) for more information.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/pr2.jpg){: style="width: 300px; float: left; border: 10px"}
-![]({{ site.url }}{{ site.baseurl }}/images/scannercar.png){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/scannercar.png){: style="width: 260px; float: right; border: 10px"}
 # Equipment
 
 We have various cutting-edge hardware equipments to support our research.

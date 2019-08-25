@@ -6,7 +6,6 @@ permalink: /pictures/
 ---
 
 # Contact
-
 Our address:
 ```
 9th floor, F building

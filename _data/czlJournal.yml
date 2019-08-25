@@ -1,7 +1,7 @@
 - title: "Improving the Robustness of Scagnostics"
   image: 
   description: 
-  authors: Yunhai Wang, Zeyu Wang, Tingting Liu, Michael Correll, <b>Zhanglin Cheng*</b>, <b>Oliver Deussen</b>, Michael Sedlmair
+  authors: Yunhai Wang, Zeyu Wang, Tingting Liu, Michael Correll, <b>Zhanglin Cheng*</b>, Oliver Deussen, Michael Sedlmair
   link:
     url: \#
     display: IEEE Transactions on Visualization and Computer Graphics (IEEE Vis 2019).
@@ -23,7 +23,7 @@
 - title: "VEGA :Visual Comparison of Phylogenetic Trees for Evolutionary Genome Analysis"
   image: 
   description: 
-  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, <b>Oliver Deussen</b>, Baoquan Chen
+  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, Oliver Deussen, Baoquan Chen
   link:
     url: \#
     display: Journal of Visualization (ChinaVis 2019)
@@ -34,9 +34,9 @@
 - title: "Quasi-Holography Computational Model for Urban Computing"
   image: 
   description: 
-  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, <b>Oliver Deussen</b>, Baoquan Chen
+  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, Oliver Deussen, Baoquan Chen
   link:
-    url: \#
+    url: https://www.sciencedirect.com/science/article/pii/S2468502X19300324
     display: Visual Informatics, 2019, 3(2):81-86.
   highlight: 0
   news1: 
@@ -100,7 +100,7 @@
 - title: "Texture-lobes for tree modeling"
   image: lobetree.png
   description: We present a lobe-based tree representation for modeling trees. The new representation is based on the observation that the tree’s foliage details can be abstracted into canonical geometry structures, termed lobe-textures. 
-  authors: Yotam Livny, Soeren Pirk, <b>Zhanglin Cheng</b>, Feilong Yan, <b>Oliver Deussen</b>, Daniel Cohen-Or, Baoquan Chen
+  authors: Yotam Livny, Soeren Pirk, <b>Zhanglin Cheng</b>, Feilong Yan, Oliver Deussen, Daniel Cohen-Or, Baoquan Chen
   link:
     url: https://dl.acm.org/citation.cfm?id=1964948
     display: ACM Transactions on Graphics (TOG) 30 (4), 53
@@ -113,7 +113,7 @@
   description: 
   authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang
   link:
-    url: \#
+    url: https://link.springer.com/article/10.1007/s11432-009-0061-5
     display: Science in China Series F:Information Sciences 52 (3), 431-444	16	2009
   highlight: 0
   news1: 
@@ -124,7 +124,7 @@
   description: 
   authors: Xiaopeng Zhang, Hongjun Li, <b>Zhanglin Cheng</b>, Yikuan Zhang
   link:
-    url: \#
+    url: http://manu35.magtech.com.cn/Jwk_ics/CN/article/downloadArticleFile.do?attachType=PDF&id=3575
     display: Journal of Information & Computational Science 6 (5), 1983-1990	11	2009
   highlight: 0
   news1: 
@@ -146,7 +146,7 @@
   description: 
   authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang, Baoquan Chen
   link:
-    url: \#
+    url: https://link.springer.com/article/10.1007/s11390-007-9095-6
     display: Journal of computer science and technology 22 (6), 846-858
   highlight: 0
   news1: 
@@ -157,7 +157,7 @@
   description: 
   authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang, Thierry Fourcaud
   link:
-    url: \#
+    url: https://ieeexplore.ieee.org/abstract/document/4548382/
     display: 2006 Second International Symposium on Plant Growth Modeling and Applications
   highlight: 0
   news1: 
@@ -168,18 +168,7 @@
   description: 
   authors: Mingchang Zhao, Jie Tian, Xun Zhu, Jian Xue, <b>Zhanglin Cheng</b>, Hua Zhao
   link:
-    url: \#
-    display: Proceedings of SPIE Medical Imaging 5367, 39-47
-  highlight: 0
-  news1: 
-  news2:
-
-- title: "The design and implementation of a C++ toolkit for integrated medical image processing and analyzing"
-  image: 
-  description: 
-  authors: Mingchang Zhao, Jie Tian, Xun Zhu, Jian Xue, <b>Zhanglin Cheng</b>, Hua Zhao
-  link:
-    url: \#
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5367/0000/The-design-and-implementation-of-a-C-toolkit-for-integrated/10.1117/12.534890.short
     display: Proceedings of SPIE Medical Imaging 5367, 39-47
   highlight: 0
   news1: 

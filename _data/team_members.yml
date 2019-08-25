@@ -2,17 +2,17 @@
   photo: chengzhanglin.jpg
   info: Associate Professor
   email: zl.cheng@siat.ac.cn
-  number_educ: 1
+  number_educ: 2
   education1: PhD-<a href="http://www.ia.cas.cn">Institute of Automation，Chinese Academy of Sciences</a>
-  education2: 
+  education2: <a href="https://siat-vcc.github.io/person/zhanglin.html">Personal Page</a>
 
 - name: Wei Zeng
   photo: zengwei.jpg
   info: Associate Professor
   email: wei.zeng@siat.ac.cn
   number_educ: 2
-  education1: PhD-<a href="">Nanyang Technological University</a>
-  education2: Bachelor-<a href="">Nanyang Technological University</a>
+  education1: PhD-<a href="https://www.ntu.edu.sg/Pages/home.aspx">Nanyang Technological University</a>
+  education2: Bachelor-<a href="https://www.ntu.edu.sg/Pages/home.aspx">Nanyang Technological University</a>
 
 - name: Oliver Deussen
   photo: OliverDeussen.jpg

@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "VCC @ SIAT - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "VCC @ SIAT -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,10 +11,10 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list))
+(For a full list see [below](#jump))
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.publistAll %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -51,13 +51,20 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Full List
-
-{% for publi in site.data.publist %}
-
+<span id="jump"></span>
+## Journal
+<span id="jump"></span>
+{% for publi in site.data.publistAll %}
+  {% if publi.type == 1 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  {% endif %}
 {% endfor %}
 
+## Conference
+{% for publi in site.data.publistAll %}
+  {% if publi.type == 2 %}
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% endif %}
+{% endfor %}

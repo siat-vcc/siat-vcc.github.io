@@ -2,6 +2,7 @@
 #  photo: rock.jpg
 #  info:
 #  email:
+#  research:
 #  number_educ:
 #  education1:
 #  education2:
@@ -11,69 +12,71 @@
 - name: Ao Dong
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
+  email: ao.dong@siat.ac.cn
+  research: literature data visualization
   number_educ: 1
-  education1: literature data visualization
+  education1: Bachelor-Shandong University of Science and Technology
 
 - name: Jiaxin Zhou
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
-  number_educ: 1
-  education1: structure from motion
+  email: jx.zhou@siat.ac.cn
+  research: structure from motion
+  number_educ: 0
+  education1: 
 
 - name: Zhiguang Yang
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
+  email: zg.yang@siat.ac.cn
+  research: Deep learning
   number_educ: 1
-  education1: Deep learning
+  education1: Bachelor-Beijing Institue of Technology
 
 - name: Zhihao Liu
   photo: rock.jpg
   info: Master student
   email: notAvailable@siat.ac.com
+  research: modeling and 3D reconstruction
   number_educ: 1
-  education1: modeling and structure from motion
+  education1: Bachelor-Northwest A&F University
 
 - name: Kai Wu
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
+  email: kai.wu@siat.ac.cn
+  research: modeling and deep learning
   number_educ: 1
-  education1: modeling and deep learning
+  education1: Bachelor-Northwest A&F University
 
 - name: Zhenbang He
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
+  email: zb.he@siat.ac.com
+  research: offline rendering
   number_educ: 1
-  education1: offline rendering
+  education1: Bachelor-Dalian University of Technology
 
 - name: Xi Chen
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
-  number_educ: 1
-  education1: deep learning
+  email: xi.chen2@siat.ac.com
+  research: visualization
+  number_educ: 0
+  education1: visualization
 
 - name: Xiaoliang Cui
   photo: rock.jpg
   info: Master student
   email: notAvailable@siat.ac.com
+  research: computer graphics
   number_educ: 1
-  education1: computer graphics
+  education1: Wuhan University of Technology
 
 - name: Zhendong Xiao
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
+  email: zd.xiao@siat.ac.cn
+  research: 3D reconstruction
   number_educ: 1
-  education1: structure from motion
-
-- name: Jin Zeng
-  photo: rock.jpg
-  info: Master student
-  email: notAvailable@siat.ac.com
-  number_educ: 1
-  education1: point cloud precessing
+  education1: University of Sciences and Technology of China

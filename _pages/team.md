@@ -89,9 +89,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>email: <{{ member.email }}><br>research: {{ member.research }}</i>
   <ul style="overflow: hidden">
-
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -172,13 +171,13 @@ permalink: /team/
     <th>Visitors</th>
   </tr>
   <tr>
-    <td>Xin Song, 2018</td>
-    <td>Zhenji Wang, 2018</td>
+    <td>Xin Song, 2018, Tencent</td>
+    <td>Jin Zeng, 2019, now master at CityU of HK</td>
     <td></td>
   </tr>
   <tr>
-    <td>Shufa Wei, 2018</td>
-    <td></td>
+    <td>Shufa Wei, 2018, Tencent</td>
+    <td>Zhenji Wang, 2018</td>
     <td></td>
   </tr>
 </table>

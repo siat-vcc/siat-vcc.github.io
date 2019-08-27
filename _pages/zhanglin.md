@@ -109,7 +109,8 @@ document.getElementById('honorTitle').style.fontWeight = 'bold';
             <b>{{ project.title }}</b> <br />
             <em>{{ project.type }} </em><br />
             {{ project.info }}<br/>
-            <!-- {{ project.role }}<br/><br/> -->
+            <!-- {{ project.role }}<br/> -->
+            <br/>
             {% endfor %}
         </div>
         <div markdown="0" id="honorDiv" style="margin: 10px;vertical-align:top;" class="shadowDiv">

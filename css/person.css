@@ -15,3 +15,8 @@
 .linkStyle:hover {
     color:#53f;
 }
+.shadowDiv{
+    border-radius: 3px;
+    padding:20px;
+    box-shadow: lightgrey 0px 0px 5px 5px;
+}

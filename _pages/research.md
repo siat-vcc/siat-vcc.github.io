@@ -33,9 +33,6 @@ Currently, our group is working on projects related to plant modeling, 3D recons
 ![]({{ site.url }}{{ site.baseurl }}/images/pr2.jpg){: style="width: 300px; float: left; border: 10px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/scannercar.png){: style="width: 260px; float: right; border: 10px"}
 
-# Project
-
-
 # Equipment
 
 We have various cutting-edge hardware equipments to support our research.

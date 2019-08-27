@@ -15,7 +15,7 @@
   email: ao.dong@siat.ac.cn
   research: literature data visualization
   number_educ: 1
-  education1: Bachelor-Shandong University of Science and Technology
+  education1: B.S-Shandong University of Science and Technology
 
 - name: Jiaxin Zhou
   photo: rock.jpg
@@ -31,7 +31,7 @@
   email: zg.yang@siat.ac.cn
   research: Deep learning
   number_educ: 1
-  education1: Bachelor-Beijing Institue of Technology
+  education1: B.S-Beijing Institue of Technology
 
 - name: Zhihao Liu
   photo: rock.jpg
@@ -39,15 +39,15 @@
   email: notAvailable@siat.ac.com
   research: modeling and 3D reconstruction
   number_educ: 1
-  education1: Bachelor-Northwest A&F University
+  education1: B.S-Northwest A&F University
 
 - name: Kai Wu
   photo: rock.jpg
   info: Master student
   email: kai.wu@siat.ac.cn
-  research: modeling and deep learning
+  research: computer graphics
   number_educ: 1
-  education1: Bachelor-Northwest A&F University
+  education1: B.S-Northwest A&F University
 
 - name: Zhenbang He
   photo: rock.jpg
@@ -55,7 +55,7 @@
   email: zb.he@siat.ac.com
   research: offline rendering
   number_educ: 1
-  education1: Bachelor-Dalian University of Technology
+  education1: B.S-Dalian University of Technology
 
 - name: Xi Chen
   photo: rock.jpg
@@ -68,10 +68,10 @@
 - name: Xiaoliang Cui
   photo: rock.jpg
   info: Master student
-  email: notAvailable@siat.ac.com
+  email: xl.cui@siat.ac.cn
   research: computer graphics
   number_educ: 1
-  education1: Wuhan University of Technology
+  education1: B.S-Wuhan University of Technology
 
 - name: Zhendong Xiao
   photo: rock.jpg

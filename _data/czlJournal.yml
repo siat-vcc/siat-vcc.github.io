@@ -8,6 +8,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2019
 
 - title: "Intrinsic Image Sequence Decomposition Using Low-Rank Sparse Model"
   image: 
@@ -19,6 +20,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2019
 
 - title: "VEGA :Visual Comparison of Phylogenetic Trees for Evolutionary Genome Analysis"
   image: 
@@ -30,6 +32,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2019
 
 - title: "Quasi-Holography Computational Model for Urban Computing"
   image: 
@@ -41,6 +44,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2019
 
 - title: "Realistic Procedural Plant Modeling from Multiple View Images"
   image: realistictree.png
@@ -52,6 +56,7 @@
   highlight: 1
   news1: 
   news2:
+  year: 2018
 
 - title: "Is There a Robust Technique for Selecting Aspect Ratios in Line Charts?"
   image: 
@@ -63,6 +68,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2018
 
 - title: "Realistic procedural plant modeling guided by 3D point cloud"
   image: pointtree.png
@@ -74,6 +80,7 @@
   highlight: 1
   news1: 
   news2:
+  year: 2017
 
 - title: "Analogy-based volume exploration using ellipsoidal Gaussian transfer functions"
   image: 
@@ -85,6 +92,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2017
 
 - title: "Cluster aware Star Coordinates"
   image: 
@@ -96,6 +104,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2017
 
 - title: "Texture-lobes for tree modeling"
   image: lobetree.png
@@ -107,6 +116,7 @@
   highlight: 1
   news1: 
   news2:
+  year: 2011
 
 - title: "Estimating differential quantities from point cloud based on a linear fitting of normal vectors"
   image: 
@@ -118,6 +128,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2009
 
 - title: "Robust Curvature Estimation and Geometry Analysis of 3D point Cloud Surfaces"
   image: 
@@ -129,6 +140,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2009
 
 - title: "Curvature estimation of 3d point cloud surfaces through the fitting of normal section curvatures"
   image: 
@@ -140,6 +152,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2008
 
 - title: "Simple reconstruction of tree branches from a single range image"
   image: 
@@ -151,6 +164,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2007
 
 - title: "Tree skeleton extraction from a single range image"
   image: 
@@ -162,6 +176,7 @@
   highlight: 0
   news1: 
   news2:
+  year: 2006
 
 - title: "The design and implementation of a C++ toolkit for integrated medical image processing and analyzing"
   image: 
@@ -173,3 +188,4 @@
   highlight: 0
   news1: 
   news2:
+  year: 2004

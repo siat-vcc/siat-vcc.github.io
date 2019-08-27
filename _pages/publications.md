@@ -54,16 +54,26 @@ permalink: /publications/
 <span id="jump"></span>
 ## Journal
 <span id="jump"></span>
+{% assign year = 2049 %}
 {% for publi in site.data.publistAll %}
   {% if publi.type == 1 %}
+  {% if year > publi.year %}
+  {% assign year = publi.year %}
+  <h4>{{ publi.year }}</h4>
+  {% endif %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% endif %}
 {% endfor %}
 
 ## Conference
+{% assign year2 = 2049 %}
 {% for publi in site.data.publistAll %}
   {% if publi.type == 2 %}
+  {% if year2 > publi.year %}
+  {% assign year2 = publi.year %}
+  <h4>{{ publi.year }}</h4>
+  {% endif %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% endif %}

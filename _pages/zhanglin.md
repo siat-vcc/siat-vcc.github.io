@@ -59,17 +59,19 @@ document.getElementById('honorTitle').style.fontWeight = 'bold';
 
 <div markdown="0" id="left" style="display:inline-block;width: 20%;margin: 0;vertical-align:top;" class="contentFont">
         <div>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg" width="150px" style="margin:0 auto"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/chengzhanglin.jpg" width="150px" style="margin:0 auto"/>
         </div>
         <p>
-            <b style="font-weight:bold; font-size:23px">Zhanglin Cheng</b>
+            <b style="font-weight:bold; font-size:20px">Zhanglin Cheng</b><br/>
+            <b style="font-weight:bold; font-size:17px">程章林</b>
         </p>
         <p>
         <b>Associate Professor</b><br>
-        <a href="http://www.siat.ac.cn/" style="font-size:15px">Shenzhen Institutes of Advanced Technology</a><br/>
-        <a href="http://www.cas.cn/" style="font-size:15px">Chinese Academy of Sciences</a>
+        <a href="http://www.siat.cas.cn/jgsz2016/jgdh2016/kybm2016/ygs2016/yjdy20161/yxtxyszssyjs2016/zxjj_125385/" style="font-size:14px">Research Lab for Medical Imaging and Digital Surgery</a><br/>
+        <a href="http://www.siat.ac.cn/" style="font-size:14px">Shenzhen Institutes of Advanced Technology</a><br/>
+        <a href="http://www.cas.cn/" style="font-size:14px">Chinese Academy of Sciences</a>
         </p>
-        <p>mail:zl.cheng @ siat.ac.cn<br/></p>
+        <p>mail: zl.cheng at siat.ac.cn<br/></p>
         <p>
             <a href="https://scholar.google.com/citations?user=VXKK9ncAAAAJ&hl">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gscholar.png" width="25px" style="float:left;margin-left:30px;margin-right:12px;" align="left" />
@@ -87,17 +89,22 @@ document.getElementById('honorTitle').style.fontWeight = 'bold';
             <a id="honorTitle"  onclick="showHonor()">HONOR</a> &nbsp;&nbsp;&nbsp;&nbsp;
         </nav>
         <br/>
-        <div markdown="0" id="infoDiv" style="margin: 10px;vertical-align:top;" >
-            this is info
+        <div markdown="0" id="infoDiv" style="margin: 10px;vertical-align:top;" class="shadowDiv">
+            Zhanglin Cheng is a associate professor at Shenzhen Institues of Advanced Technology, Chinese Academy of Sciences. 
         </div>
-        <div markdown="0" id="pubDiv" style="margin: 10px;vertical-align:top;">
+        <div markdown="0" id="pubDiv" style="margin: 10px;vertical-align:top;" class="shadowDiv">
+            {% assign year = 2049 %}
             {% for publi in site.data.czlJournal %}
+            {% if year > publi.year %}
+            {% assign year = publi.year %}
+            <h4>{{ publi.year }}</h4>
+            {% endif %}
             <b>{{ publi.title }}</b> <br />
             <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
             <br/><br/>
             {% endfor %}
         </div>
-        <div markdown="0" id="projectDiv" style="margin: 10px;vertical-align:top;">
+        <div markdown="0" id="projectDiv" style="margin: 10px;vertical-align:top;" class="shadowDiv">
             {% for project in site.data.czlProjects %}
             <b>{{ project.title }}</b> <br />
             <em>{{ project.type }} </em><br />
@@ -105,8 +112,8 @@ document.getElementById('honorTitle').style.fontWeight = 'bold';
             {{ project.role }}<br/><br/>
             {% endfor %}
         </div>
-        <div markdown="0" id="honorDiv" style="margin: 10px;vertical-align:top;">
-            this is honor
+        <div markdown="0" id="honorDiv" style="margin: 10px;vertical-align:top;" class="shadowDiv">
+            this is his honor
         </div>
 </div>
 <script>

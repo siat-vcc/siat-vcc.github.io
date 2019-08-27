@@ -1,6 +1,6 @@
 ---
 title: "Zhanglin Cheng"
-layout: default
+layout: person
 excerpt: "Zhanglin Cheng's page"
 sitemap: false
 permalink: /person/zhanglin.html
@@ -67,11 +67,11 @@ document.getElementById('honorTitle').style.fontWeight = 'bold';
         </p>
         <p>
         <b>Associate Professor</b><br>
-        <a href="http://www.siat.cas.cn/jgsz2016/jgdh2016/kybm2016/ygs2016/yjdy20161/yxtxyszssyjs2016/zxjj_125385/" style="font-size:14px">Research Lab for Medical Imaging and Digital Surgery</a><br/>
-        <a href="http://www.siat.ac.cn/" style="font-size:14px">Shenzhen Institutes of Advanced Technology</a><br/>
-        <a href="http://www.cas.cn/" style="font-size:14px">Chinese Academy of Sciences</a>
+        <a href="http://www.siat.cas.cn/jgsz2016/jgdh2016/kybm2016/ygs2016/yjdy20161/yxtxyszssyjs2016/zxjj_125385/" style="font-size:13px">Research Lab for Medical Imaging and Digital Surgery</a><br/>
+        <a href="http://www.siat.ac.cn/" style="font-size:13px">Shenzhen Institutes of Advanced Technology</a><br/>
+        <a href="http://www.cas.cn/" style="font-size:13px">Chinese Academy of Sciences</a>
         </p>
-        <p>mail: zl.cheng at siat.ac.cn<br/></p>
+        <p style="font-size:14px">mail: <i>zl.cheng at siat.ac.cn</i><br/></p>
         <p>
             <a href="https://scholar.google.com/citations?user=VXKK9ncAAAAJ&hl">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gscholar.png" width="25px" style="float:left;margin-left:30px;margin-right:12px;" align="left" />

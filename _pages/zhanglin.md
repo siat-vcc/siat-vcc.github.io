@@ -59,7 +59,7 @@ document.getElementById('honorTitle').style.fontWeight = 'bold';
 
 <div markdown="0" id="left" style="display:inline-block;width: 20%;margin: 0;vertical-align:top;" class="contentFont">
         <div>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/chengzhanglin.jpg" width="150px" style="margin:0 auto"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/chengzhanglin.jpg" width="70%" style="margin:0 auto"/>
         </div>
         <p>
             <b style="font-weight:bold; font-size:20px">Zhanglin Cheng</b><br/>

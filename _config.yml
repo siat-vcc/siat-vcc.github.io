@@ -18,6 +18,7 @@ url: ""
 include:
   - .htaccess
   - _pages
+  - ~zhanglin.html
 
 sass:
   sass_dir: _sass

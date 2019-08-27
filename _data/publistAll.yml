@@ -94,7 +94,19 @@
   year: 2019
   news1: in print, 2019
   news2:
-
+ 
+- title: "Synthesizing Cloth Wrinkles by CNN-based Geometry Image Super-resolution"
+  image: 
+  description: 
+  authors: Lan Chen, Juntao Ye, Liguo Jiang, Chengcheng Ma, <b>Zhanglin Cheng</b>, Xiaopeng Zhang.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1810
+    display:  Computer Animation and Virtual World, 2018, 29(3-4).
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
 
 - title: "Measuring daily accessed street greenery: A human-scale approach for informing better urban planning practices"
   image: 

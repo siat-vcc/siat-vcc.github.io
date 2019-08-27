@@ -46,6 +46,19 @@
   news2:
   year: 2019
 
+- title: "Synthesizing Cloth Wrinkles by CNN-based Geometry Image Super-resolution"
+  image: 
+  description: 
+  authors: Lan Chen, Juntao Ye, Liguo Jiang, Chengcheng Ma, <b>Zhanglin Cheng</b>, Xiaopeng Zhang.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1810
+    display:  Computer Animation and Virtual World, 2018, 29(3-4).
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+  
 - title: "Realistic Procedural Plant Modeling from Multiple View Images"
   image: realistictree.png
   description: We describe a novel procedural modeling technique for generating realistic plant models from multi-view photographs. The realism is enhanced via visual and spatial information acquired from images.
